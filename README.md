@@ -17,7 +17,7 @@ This project showcases your practical ability to design, deploy, and configure e
 
 🏗️ Architecture Diagram
 
-![AWS 3-Tier Architecture](/mnt/data/3TierArch.png)
+![AWS 3-Tier Architecture](images/3TierArch.png)
 
 
 🔹 Component Overview
